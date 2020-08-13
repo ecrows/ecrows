@@ -6,7 +6,7 @@ I'm a software engineer from up north!  I'm into ML model serving, applied resea
 
 I currently work for the Government of Canada.  You can read about my professional work over on my website, [https://ecrows.ai](https://ecrows.ai).  I'm also a PhD student at the University of Ottawa, where I do machine learning research.
 
-I enjoy foreign films, play the fiddle, and avidly follow the StarCraft II pro scene.  I speak English, un peu françis canadien, 和一点中文.  I draw and make indie games as a hobby -- a couple of which have millions of YouTube views after being played by high-profile streamers (which is still hard for me to believe!)
+I enjoy foreign films, play the fiddle, and avidly follow the StarCraft II pro scene.  I speak English, un peu françis canadien, 和一点中文.  I draw and make indie games as a hobby -- some of which you may have heard of!
 
 ### Collaboration!
 

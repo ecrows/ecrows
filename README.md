@@ -4,7 +4,7 @@
 
 I'm a software engineer from up north!  I'm into ML model serving, applied research, and AI ethics.  You can also read about my professional and academic work over on my website, [https://ecrows.ai](https://ecrows.ai).
 
-I enjoy foreign films, play the fiddle, and avidly follow the StarCraft II pro scene.  I speak English, un peu françis canadien, 和一点中文.  I draw and make indie games as a hobby -- some of which you may have heard of!
+I enjoy foreign films, play the fiddle, and avidly follow the StarCraft II pro scene.  I speak English, un peu français canadien, 和一点中文.  I draw and develop indie games as a hobby -- some of which you may have heard of!
 
 ### Collaboration!
 

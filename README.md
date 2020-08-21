@@ -4,7 +4,7 @@
 
 I'm a software engineer from up north!  I'm into ML model serving, applied research, and AI ethics.
 
-I'm currently a PhD student at the University of Ottawa, where I do machine learning research.  You can also read about my professional work over on my website, [https://ecrows.ai](https://ecrows.ai).
+I do machine learning research and development.  You can also read about my professional and academic work over on my website, [https://ecrows.ai](https://ecrows.ai).
 
 I enjoy foreign films, play the fiddle, and avidly follow the StarCraft II pro scene.  I speak English, un peu françis canadien, 和一点中文.  I draw and make indie games as a hobby -- some of which you may have heard of!
 
@@ -16,4 +16,4 @@ I'm looking to collaborate on...
 - ✅ Getting people to actually read machine learning model documentation with [Open Model Cards](https://github.com/ecrows/open-model-cards)
 - 🎨 Beautiful generative art projects, and tools that give artists new superpowers
 
-Feel free to ask me about anything I've worked on, and also let me know what projects motivate you.
+Feel free to ask me about anything I've worked on, and let me know what projects motivate you!
